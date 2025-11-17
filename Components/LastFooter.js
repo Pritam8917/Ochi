@@ -39,9 +39,6 @@ const LastFooter = () => {
         <div className="w-1/2  h-full items-center flex">
           <h1 className="text-zinc-400">© ochi design 2025. Legal Terms</h1>
         </div>
-        <div className="w-1/2  h-full flex items-center justify-end right-0">
-          <h1 className="text-zinc-400">Website by Obys</h1>
-        </div>
       </div>
     </div>
   );
