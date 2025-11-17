@@ -67,7 +67,7 @@ const Navbar = () => {
                 }`}
               >
                 {items}
-                <span className="absolute left-0 bottom-0 h-[1px] w-full bg-white scale-x-0 group-hover:scale-x-100 origin-left duration-300"></span>
+                <span className="absolute left-0 bottom-0 h-[1px] w-full bg-white scale-x-0 hover:scale-x-100 origin-left duration-300"></span>
               </a>
             );
           }
